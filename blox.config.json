@@ -1,1 +1,1 @@
-{"name":"candidate_listing","type":"ui-elements","source":{"https":"","ssh":"git@github.com:joyalneo/_ha_candidate_listing.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
+{"name":"candidate-demo2","type":"ui-elements","source":{"https":"https://github.com/joyalneo/_ha2_candidate-demo2","ssh":"git@github.com:joyalneo/_ha2_candidate-demo2.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
