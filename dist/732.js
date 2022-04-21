@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcandidate_listing=self.webpackChunkcandidate_listing||[]).push([[732],{9732:(e,a,l)=>{l.r(a),l.d(a,{default:()=>s});var t=l(2950),n=l(3244);l(2493);const s=e=>t.createElement("div",{className:"float-left mt-6 w-full rounded-lg bg-[#fafafb] p-6"},t.createElement(n.Z,null))}}]);
